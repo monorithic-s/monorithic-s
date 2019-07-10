@@ -1,2 +1,3 @@
 # monorithic-s
-A Scala utility libraries in single binary (.jar)
+
+Monorithic-s provides utility libraries for Scala in single binary (.jar)
